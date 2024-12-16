@@ -1,18 +1,12 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Ri Happy - Front-end do Zero | #4 Pokédex
+# Ri Happy - Front-end do Zero #4 | Pokédex
 
 ## 1️⃣ Objetivo
 Desenvolver uma Pokédex utilizando JavaScript e entender como funciona o consumo de uma API REST.
 
 ## 2️⃣ Descrição
 Este projeto foi realizado durante o Bootcamp **Ri Happy - Front-end do Zero**, oferecido pela **Digital Innovation One (DIO)**.
-
-O bootcamp abrange:
-
-- **Aulas teóricas:** com explicações e exercícios práticos.
-- **Desafios de código:** para aplicar os conceitos ensinados.
-- **Projetos guiados com mentoria:** para enriquecer o portfólio com projetos práticos.
 
 A atividade foi conduzida pelo instrutor **Renan Johannsen**, que abordou não apenas os conceitos de API e JavaScript, mas também:
 
@@ -35,7 +29,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao instrutor Renan Johannsen e à equipe da DIO pelo conteúdo de alta qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
+Agradeço ao instrutor **Renan Johannsen** e à equipe da **DIO** pelo conteúdo de altíssima qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
